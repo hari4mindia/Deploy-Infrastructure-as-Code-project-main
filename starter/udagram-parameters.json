@@ -1,0 +1,14 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "UdacityUdagram"
+	},
+	{
+		"ParameterKey": "ServerAMIId",
+		"ParameterValue": "ami-032346ab877c418af"
+	},
+	{
+		"ParameterKey": "InstanceType",
+		"ParameterValue": "t2.micro"
+	}
+]
