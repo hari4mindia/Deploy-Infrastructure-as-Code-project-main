@@ -5,10 +5,10 @@
 	},
 	{
 		"ParameterKey": "ServerAMIId",
-		"ParameterValue": "ami-032346ab877c418af"
+		"ParameterValue": "ami-0729e439b6769d6ab"
 	},
 	{
 		"ParameterKey": "InstanceType",
-		"ParameterValue": "t2.micro"
+		"ParameterValue": "t3.medium"
 	}
 ]
