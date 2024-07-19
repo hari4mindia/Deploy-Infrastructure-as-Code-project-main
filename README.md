@@ -6,21 +6,7 @@
 
 
 # Load Balancer URL: 
-http://Udagra-WebAp-hTXhBwf0tP6z-1699872487.us-east-1.elb.amazonaws.com
-
-
-# Deployment Instruction output
-
-C:\Users\Hari\Desktop\H_Ws\Deploy-Infrastructure-as-Code-project-main\starter>aws cloudformation create-stack --stack-name UdacityUdagramStack --template-body file://network.yml --parameters file://network-parameters.json --capabilities CAPABILITY_IAM
-{
-    "StackId": "arn:aws:cloudformation:us-east-1:405341837454:stack/UdacityUdagramStack/eea91460-4369-11ef-b9fe-0affcb0d4571"
-}
-
-
-C:\Users\Hari\Desktop\H_Ws\Deploy-Infrastructure-as-Code-project-main\starter>aws cloudformation create-stack --stack-name UdagramStack --template-body file://udagram.yml --parameters file://udagram-parameters.json --capabilities CAPABILITY_IAM
-{
-    "StackId": "arn:aws:cloudformation:us-east-1:405341837454:stack/UdagramStack/26eaf8f0-4376-11ef-9a41-1272aeae96df"
-}
+http://Udagra-WebAp-yfOax8uQuY4c-1708861190.us-east-1.elb.amazonaws.com
 
 # Images-of-result have all the results from aws console
 
