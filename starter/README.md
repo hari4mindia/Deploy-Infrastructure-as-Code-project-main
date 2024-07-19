@@ -6,7 +6,7 @@
 
 
 # Load Balancer URL: 
-http://Udagra-WebAp-yfOax8uQuY4c-1708861190.us-east-1.elb.amazonaws.com
+http://udagra-webap-yfoax8uquy4c-1708861190.us-east-1.elb.amazonaws.com
 
 
 # Deployment Instruction output
